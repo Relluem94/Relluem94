@@ -7,7 +7,3 @@ I'm Relluem94 you will find many different projects under the 6 brands in my <a 
 <img title="ApplicationDevelopment" src="https://img.relluem94.de/logos/app_brand.png" height="50"><img title="MusicProduction" src="https://img.relluem94.de/logos/music_brand.png" height="50"><img title="FutureProduct" src="https://img.relluem94.de/logos/future_brand.png" height="50"></a>
 
 <a href="https://www.relluem94.de/cms.php?s=Projekte">(almost) All Projects</a>
-
-## Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=relluem94&theme=solarized-dark&show_icons=True&count_private=true">
